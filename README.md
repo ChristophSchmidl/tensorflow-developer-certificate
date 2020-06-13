@@ -20,3 +20,7 @@
 ## Online Courses
 
 - [ ] [TensorFlow in Practice Specialization on Coursera](https://dbourke.link/tfinpractice)
+
+## Youtube
+
+- [ ] [Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
